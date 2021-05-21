@@ -12,8 +12,8 @@
 
 ## Poin yang harus diolah
  - memberikan markdown title, author name, dan date
- - melakukan formating style yang Bapak Ibu sukai
+ - melakukan formating style yang disukai
  - memberikan heading pada setiap bab dan sub bab yang dibuat dalam masing-masing pembahasannya
- - melakukan import data yang Bapak Ibu gunakan
+ - melakukan import data yang digunakan
  - melakukan penjelasan terhadap data yang digunakan
- - melakukan cleansing data dan melakukan exploratory terhadap data berdasarkan business problem yang Bapak Ibu buat
+ - melakukan cleansing data dan melakukan exploratory terhadap data berdasarkan business problem yang dibuat
