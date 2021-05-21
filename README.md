@@ -1,4 +1,4 @@
-# 1-lbb-programingfordatascnc
+# LBB 1 : PROGRAMING FOR DATA SCIENCE
 
 ## Contoh reporting/analisis sederhana menggunakan R
  - http://rpubs.com/wkania/EDA_Retail: Melakukan exploratory data analysis menggunakan data retail.
